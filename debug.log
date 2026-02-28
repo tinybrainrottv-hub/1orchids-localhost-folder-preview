@@ -1,0 +1,1 @@
+2026-02-27T16:45:14.404Z [console][warn] Image with src "https://3000-e7b1ed2f-fe12-40c2-af5f-94f306771a06.orchids.cloud/vercel.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
